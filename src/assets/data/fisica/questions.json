@@ -1,0 +1,116 @@
+{
+    "questions": [
+
+        {
+            "flashCardFront": "<p></p>",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "", "correct": true, "selected": false},
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/fisica/.jpg' />",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p></p>",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "", "correct": true, "selected": false},
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/fisica/.jpg' />",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p></p>",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "", "correct": true, "selected": false},
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/fisica/.jpg' />",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p></p>",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "", "correct": true, "selected": false},
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/fisica/.jpg' />",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p></p>",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "", "correct": true, "selected": false},
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/fisica/.jpg' />",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": false, "selected": false},
+                {"answer": "", "correct": true, "selected": false}
+            ]
+        }
+
+    ]
+}

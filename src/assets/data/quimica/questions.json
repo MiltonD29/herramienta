@@ -1,0 +1,116 @@
+{
+    "questions": [
+
+        {
+            "flashCardFront": "<p>Todo aquello que tiene masa, peso y ocupa un lugar en el espacio:</p>",
+            "flashCardBack": "<h2>Materia</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "Energía", "correct": false, "selected": false},
+              {"answer": "Química", "correct": false, "selected": false},
+              {"answer": "Materia", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/quimica/.jpg' />",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "", "correct": false, "selected": false},
+              {"answer": "", "correct": false, "selected": false},
+              {"answer": "", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>¿Cuál es la fórmula de la energía cinética?</p>",
+            "flashCardBack": "<h2>E = (½ mv2)</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "E = mc2", "correct": false, "selected": false},
+              {"answer": "E = mgh", "correct": false, "selected": false},
+              {"answer": "E = (½ mv2)", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/quimica/.jpg' />",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "", "correct": false, "selected": false},
+              {"answer": "", "correct": false, "selected": false},
+              {"answer": "", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>La cantidad combinada de materia y energía en el universo es:</p>",
+            "flashCardBack": "<h2>Fija</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "Variable", "correct": false, "selected": false},
+              {"answer": "Independiente", "correct": false, "selected": false},
+              {"answer": "Fija", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/quimica/.jpg' />",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "", "correct": false, "selected": false},
+              {"answer": "", "correct": false, "selected": false},
+              {"answer": "", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>Coloque en orden de densidades de menor a mayor:</p>",
+            "flashCardBack": "<h2>Gas, líquido, sólido.</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "Sólido, gas, líquido", "correct": false, "selected": false},
+              {"answer": "Gas, sólido, líquido", "correct": false, "selected": false},
+              {"answer": "Gas, líquido, sólido", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/quimica/.jpg' />",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "", "correct": false, "selected": false},
+              {"answer": "", "correct": false, "selected": false},
+              {"answer": "", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>Capacidad para realizar un trabajo: </p>",
+            "flashCardBack": "<h2>Energía</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "Energía cinética", "correct": false, "selected": false},
+              {"answer": "Energía potencial", "correct": false, "selected": false},
+              {"answer": "Energía", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/quimica/.jpg' />",
+            "flashCardBack": "<h2></h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "", "correct": false, "selected": false},
+              {"answer": "", "correct": false, "selected": false},
+              {"answer": "", "correct": true, "selected": false}
+            ]
+        }
+
+    ]
+}

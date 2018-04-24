@@ -1,0 +1,116 @@
+{
+    "questions": [
+
+        {
+            "flashCardFront": "<p>¿Quién firmo los tratados de Córdoba en las que se reconocía la independencia de México?</p>",
+            "flashCardBack": "<h2>Agustín Iturbide y Juan O'Donojú</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "Cárdenas e Hidalgo", "correct": false, "selected": false},
+              {"answer": "Iturbide e Hidalgo", "correct": false, "selected": false},
+              {"answer": " A. Iturbide y J. O’Donojú", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/historia/guerrero.jpg' />",
+            "flashCardBack": "<h2>Vicente Guerrero</h2>",
+            "flashCardFlipped": false,
+            "questionText": "General mexicano que peleó bajo las ordenes de Morelos:",
+            "answers": [
+              {"answer": "Francisco I. Madero", "correct": false, "selected": false},
+              {"answer": "Francisco Villa", "correct": false, "selected": false},
+              {"answer": "Vicente Guerrero", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>Grupo de personas que querían libertad y un gobierno apegado a la ley</p>",
+            "flashCardBack": "<h2>Liberales</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "Socialistas", "correct": false, "selected": false},
+              {"answer": "Capitalistas", "correct": false, "selected": false},
+              {"answer": "Liberales", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/historia/santaanna.jpg' />",
+            "flashCardBack": "<h2>Antonio López de Santa Anna</h2>",
+            "flashCardFlipped": false,
+            "questionText": "Participó ideológicamente en la reforma liberal de 1833:",
+            "answers": [
+              {"answer": "Benito Juárez", "correct": false, "selected": false},
+              {"answer": "Porfirio Díaz", "correct": false, "selected": false},
+              {"answer": "A. López de Santa Anna", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>Los conservadores proponían como forma de gobierno la:</p>",
+            "flashCardBack": "<h2>Monarquía</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "Anarquía", "correct": false, "selected": false},
+              {"answer": "Democracia", "correct": false, "selected": false},
+              {"answer": "Monarquía", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/historia/industrial.jpg' />",
+            "flashCardBack": "<h2>Industrial</h2>",
+            "flashCardFlipped": false,
+            "questionText": "Los países latinoamericanos se caracterizaron, en el siglo XIX, por su economía:",
+            "answers": [
+              {"answer": "Estable", "correct": false, "selected": false},
+              {"answer": "Agrícola", "correct": false, "selected": false},
+              {"answer": "Industrial", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>La constitución de 1857 estableció por primera vez:</p>",
+            "flashCardBack": "<h2>Las garantías individuales</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "Reformas educativas", "correct": false, "selected": false},
+              {"answer": "Equidad", "correct": false, "selected": false},
+              {"answer": "Garantías individuales", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/historia/independencia.jpeg' />",
+            "flashCardBack": "<h2>Once años</h2>",
+            "flashCardFlipped": false,
+            "questionText": "¿Cuántos años duró la guerra de independencia? ",
+            "answers": [
+              {"answer": "Veinte años", "correct": false, "selected": false},
+              {"answer": "Diez años", "correct": false, "selected": false},
+              {"answer": "Once años", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>Intervención extranjera que culminó con la firma del tratado de Guadalupe Hidalgo:</p>",
+            "flashCardBack": "<h2>Norteamericana</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+              {"answer": "Sudamericana", "correct": false, "selected": false},
+              {"answer": "Europea", "correct": false, "selected": false},
+              {"answer": "Norteamericana", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/historia/morelos.jpg' />",
+            "flashCardBack": "<h2>José María Morelos y Pavón</h2>",
+            "flashCardFlipped": false,
+            "questionText": "Escribió 'Sentimientos de la Nación'",
+            "answers": [
+              {"answer": "Guadalupe Victoria", "correct": false, "selected": false},
+              {"answer": "Miguel Hidalgo", "correct": false, "selected": false},
+              {"answer": "José María Morelos", "correct": true, "selected": false}
+            ]
+        }
+
+    ]
+}

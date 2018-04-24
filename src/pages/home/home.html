@@ -1,14 +1,64 @@
 <ion-header>
-  <ion-navbar>
+  <ion-navbar color="primary">
     <ion-title>
-      Ionic Blank
+      Quiz App
     </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+
+  <h2 text-center>Selecciona una materia</h2>
+
+  <ion-grid color="light">
+    <ion-row>
+      <ion-col>
+        <ion-card class="category-card" (click)="navEspanol()">
+          <img class="category-img" src="./assets/imgs/espanol.jpg"/>
+          <div class="card-category-title">Español</div>
+        </ion-card>
+      </ion-col>
+
+      <ion-col>
+        <ion-card class="category-card" (click)="navMate()">
+          <img class="category-img" src="./assets/imgs/mate.jpg"/>
+          <div class="card-category-title">Matemáticas</div>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col>
+        <ion-card class="category-card" (click)="navFisica()">
+          <img class="category-img" src="./assets/imgs/fisica.jpg"/>
+          <div class="card-category-title">Física</div>
+        </ion-card>
+      </ion-col>
+
+      <ion-col>
+        <ion-card class="category-card" (click)="navQuimica()">
+          <img class="category-img" src="./assets/imgs/quimica.jpg"/>
+          <div class="card-category-title">Química</div>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col>
+        <ion-card class="category-card" (click)="navHistoria()">
+          <img class="category-img" src="./assets/imgs/historia.jpg"/>
+          <div class="card-category-title">Historia</div>
+        </ion-card>
+      </ion-col>
+
+      <ion-col>
+        <ion-card class="category-card" (click)="navGeo()">
+          <img class="category-img" src="./assets/imgs/geografia.jpg"/>
+          <div class="card-category-title">Geografía</div>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+
+  </ion-grid>
+
 </ion-content>

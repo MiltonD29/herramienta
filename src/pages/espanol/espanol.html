@@ -1,0 +1,58 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title text-center>
+      Español
+    </ion-title>
+    <ion-buttons start>
+      <button (click)="navInicio()" ion-button icon-only>
+        <ion-icon name="close" color="#fff"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+    <ion-slides #slides>
+
+        <ion-slide class="start-slide">
+          <img src="./assets/imgs/thanos.jpg" alt="thanos">
+          <h2>¿Listo para derrotar a Thanos?</h2>
+          <button ion-button color="primary" block (click)="nextSlide()">¡Comenzar!</button>
+        </ion-slide>
+
+        <ion-slide *ngFor="let question of questions; let i = index;">
+
+            <h3>Pregunta {{i+1}}</h3>
+
+            <flash-card [isFlipped]="question.flashCardFlipped">
+                <div class="flash-card-front" [innerHTML]="question.flashCardFront"></div>
+                <div class="flash-card-back" [innerHTML]="question.flashCardBack"></div>
+            </flash-card>
+
+            <p>{{question.questionText}}</p>
+
+            <ion-list no-lines radio-group>
+
+                <ion-item *ngFor="let answer of question.answers; let i = index;">
+
+                    <ion-label>{{i+1}}. {{answer.answer}}</ion-label>
+                    <ion-radio (click)="selectAnswer(answer, question)" [checked]="answer.selected" [disabled]="hasAnswered"></ion-radio>
+
+                </ion-item>
+
+            </ion-list>
+
+        </ion-slide>
+
+        <ion-slide>
+            <h2>Puntaje final: {{score}}</h2>
+
+            <button (click)="restartQuiz()" ion-button full color="primary">Comenzar de nuevo</button>
+            <button (click)="navInicio()" ion-button full color="secondary">Ir a inicio</button>
+
+        </ion-slide>
+
+    </ion-slides>
+
+</ion-content>

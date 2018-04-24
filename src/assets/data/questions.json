@@ -1,0 +1,117 @@
+{
+    "questions": [
+
+        {
+            "flashCardFront": "<p>¿Cuál es la estructura básica de comunicación que se acostumbra en los textos que exponen la opinión de su autor?</p>",
+            "flashCardBack": "<h2>Argumentación</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "Descripción", "correct": true, "selected": false},
+                {"answer": "Narración", "correct": false, "selected": false},
+                {"answer": "Argumentación", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>¿Cuál de los siguientes recursos lingüísticos se usan en los textos argumentativos?</p>",
+            "flashCardBack": "<h2>Figuras retóricas</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "Definiciones", "correct": false, "selected": false},
+                {"answer": "Figuras retóricas", "correct": true, "selected": false},
+                {"answer": "Uso del impersonal", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/espanol/text-exp.jpeg' />",
+            "flashCardBack": "<h2>Informar y explicar</h2>",
+            "flashCardFlipped": false,
+            "questionText": "La función principal de los textos expositivos es...",
+            "answers": [
+                {"answer": "Narrar y divertir", "correct": false, "selected": false},
+                {"answer": "Persuadir o convencer", "correct": false, "selected": false},
+                {"answer": "Informar y explicar", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/espanol/identidad.png' />",
+            "flashCardBack": "<h2>Un documento de identidad</h2>",
+            "flashCardFlipped": false,
+            "questionText": "El nombre, la fotografía y la firma de una persona son elementos que aparecen en un...",
+            "answers": [
+                {"answer": "Acta de nacimiento", "correct": false, "selected": false},
+                {"answer": "Comprobante de estudios", "correct": false, "selected": false},
+                {"answer": "Documento de identidad", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/espanol/debate.jpg' />",
+            "flashCardBack": "<h2>Incluye datos fundamentados</h2>",
+            "flashCardFlipped": false,
+            "questionText": "Los argumentos de quien participa en un debate son confiables porque...",
+            "answers": [
+                {"answer": "Provocan aburrimiento", "correct": false, "selected": false},
+                {"answer": "Atrapan la atención ", "correct": false, "selected": false},
+                {"answer": "Incluye datos fundamentados", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>¿Qué parte de un texto argumentativo es una afirmación, acerca de un hecho, que se sustentará con datos adicionales?</p>",
+            "flashCardBack": "<h2>Tesis</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "Conclusión", "correct": false, "selected": false},
+                {"answer": "Argumento", "correct": false, "selected": false},
+                {"answer": "Tesis", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>¿Qué tipo de contenido debe incluir el prólogo de una antología de textos literarios?</p>",
+            "flashCardBack": "<h2>Artístico</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "Político", "correct": false, "selected": false},
+                {"answer": "Histórico", "correct": false, "selected": false},
+                {"answer": "Artístico", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/espanol/prosodicos.jpg' />",
+            "flashCardBack": "<h2>Entonación, volumen y pausas</h2>",
+            "flashCardFlipped": false,
+            "questionText": "¿Cuáles son los recursos prosódicos?",
+            "answers": [
+                {"answer": "Entonación", "correct": false, "selected": false},
+                {"answer": "Volumen", "correct": false, "selected": false},
+                {"answer": "Pausas", "correct": false, "selected": false},
+                {"answer": "Entonación, volumen y pausas", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/espanol/lengua.jpg' />",
+            "flashCardBack": "<h2>La lengua</h2>",
+            "flashCardFlipped": false,
+            "questionText": "Representa la forma de hablar y una manera de ver el mundo:",
+            "answers": [
+                {"answer": "El idioma", "correct": false, "selected": false},
+                {"answer": "La cultura ", "correct": false, "selected": false},
+                {"answer": "La lengua", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/espanol/comunicacion.jpg' />",
+            "flashCardBack": "<h2>Lenguaje verbal y no verbal</h2>",
+            "flashCardFlipped": false,
+            "questionText": "La comunicación entre los seres humanos se realiza mediante:",
+            "answers": [
+                {"answer": "Lenguaje verbal", "correct": false, "selected": false},
+                {"answer": "Señas", "correct": false, "selected": false},
+                {"answer": "Lenguaje verbal y no verbal", "correct": true, "selected": false}
+            ]
+        }
+
+    ]
+}

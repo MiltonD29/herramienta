@@ -1,3 +1,107 @@
-page-home {
+.ios, .md {
+
+    page-home {
+
+      ion-content {
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1b577b+0,341a4a+100 */
+        background: #1b577b; /* Old browsers */
+        background: -moz-linear-gradient(-45deg, #1b577b 0%, #341a4a 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(-45deg, #1b577b 0%,#341a4a 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(135deg, #1b577b 0%,#341a4a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+      }
+
+      .inner {
+        width: 100%;
+        //height: 100vh;
+        padding: 0px 20px 0px 20px;
+        ion-card {
+          display: table-cell;
+          border: 1px solid #ccc;
+          padding: 20px;
+          border-radius: 100%;
+          justify-content: space-around;
+        }
+        img {
+          width: 100px;
+          height: 100px;
+          }
+        }
+
+        .grid {
+          padding-right: 28px;
+        }
+
+        .category-card {
+          position: relative;
+          text-align: center;
+          width: 100%;
+          height: 105px;
+        }
+
+        .category-img {
+          height: 105px;
+          opacity: .75;
+          background-color: rgba(0,0,0,0.75);
+          -webkit-box-shadow: 0px 0px 15px 2px rgba(255,255,255,.75);
+          box-shadow: 0px 0px 15px 2px rgba(255,255,255,.75);
+        }
+
+        .card-category-title {
+          position: absolute;
+          top: 38%;
+          font-size: 1.3em;
+          width: 100%;
+          font-weight: bold;
+          color: #fff;
+        }
+
+        // #custom-overlay {
+        //   position: fixed;
+        //   top: 0;
+        //   right: 0;
+        //   bottom: 0;
+        //   left: 0;
+        //   z-index: 100000;
+        //   width:100%;
+        //   background-color: #002a3e;
+        // }
+        //
+        // .flb {
+        //   background-color: #fff;
+        //   height:100%;
+        //   width:100%;
+        //   animation: pulse 1s linear forwards;
+        //   display: flex;
+        //   align-items: center;
+        //   justify-content: center;
+        // }
+        // .Aligner-item {
+        //   max-width: 50%;
+        // }
+        // .Aligner-item--top {
+        //   align-self: flex-start;
+        // }
+        // .Aligner-item--bottom {
+        //   align-self: flex-end;
+        // }
+        // #custom-overlay img {
+        //   display: block;
+        //   margin: 0 auto;
+        //   width: 50%;
+        //   height: auto;
+        //   animation: animation 3100ms linear infinite both;
+        //   animation-delay: 1s;
+        // }
+        //
+        // @keyframes pulse {
+        // 0% {
+        //   opacity:0;
+        // }
+        // 100% {
+        //   opacity:1;
+        // }
+        // }
+
+    }
 
 }

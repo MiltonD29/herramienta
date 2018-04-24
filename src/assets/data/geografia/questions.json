@@ -1,0 +1,116 @@
+{
+    "questions": [
+
+        {
+            "flashCardFront": "<p>Es la distancia de un punto sobre la superficie terrestre a partir del nivel del mar:</p>",
+            "flashCardBack": "<h2>Altitud</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "Latitud", "correct": false, "selected": false},
+                {"answer": "Distancia entre polos", "correct": false, "selected": false},
+                {"answer": "Altitud", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/geografia/espgeo.jpg' />",
+            "flashCardBack": "<h2>Espacio Geográfico</h2>",
+            "flashCardFlipped": false,
+            "questionText": "Son las representaciones sobre las características de un territorio:",
+            "answers": [
+                {"answer": "Sección de un mapa", "correct": false, "selected": false},
+                {"answer": "Mapa", "correct": false, "selected": false},
+                {"answer": "Espacio Geográfico", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>¿Qué es una representación?</p>",
+            "flashCardBack": "<h2>Una imagen que sustituye algo</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "Un mapa", "correct": false, "selected": false},
+                {"answer": "Un croquis", "correct": false, "selected": false},
+                {"answer": "Imagen que sustituye algo", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/geografia/escala.jpg' />",
+            "flashCardBack": "<h2>Municipios o localidades</h2>",
+            "flashCardFlipped": false,
+            "questionText": "¿Qué se puede observar en una representación a escala local?",
+            "answers": [
+                {"answer": "Continentes", "correct": false, "selected": false},
+                {"answer": "Países", "correct": false, "selected": false},
+                {"answer": "Municipios o localidades", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>¿Son los tres rasgos físicos más importantes de los continentes?</p>",
+            "flashCardBack": "<h2>Orografía, Hidrografía y clima</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "Gastronomía, flora y fauna", "correct": false, "selected": false},
+                {"answer": "Población, política y turismo", "correct": false, "selected": false},
+                {"answer": "Orografía, Hidrografía y clima", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/geografia/oceanos.jpg' />",
+            "flashCardBack": "<h2>Océano Pacífico</h2>",
+            "flashCardFlipped": false,
+            "questionText": "¿Cuál es el Océano con mayor extensión del mundo?",
+            "answers": [
+                {"answer": "Océano Índico", "correct": false, "selected": false},
+                {"answer": "Océano Atlántico", "correct": false, "selected": false},
+                {"answer": "Océano Pacífico", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/geografia/esfinge.jpg' />",
+            "flashCardBack": "<h2>Egipto</h2>",
+            "flashCardFlipped": false,
+            "questionText": "¿En qué país está la Esfinge de Gizeh?",
+            "answers": [
+                {"answer": "Argelia", "correct": false, "selected": false},
+                {"answer": "Ghana", "correct": false, "selected": false},
+                {"answer": "Egipto", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/geografia/madagascar.jpg' />",
+            "flashCardBack": "<h2>África</h2>",
+            "flashCardFlipped": false,
+            "questionText": "¿A qué continente pertenece la Isla de Madagascar?",
+            "answers": [
+                {"answer": "Europa", "correct": false, "selected": false},
+                {"answer": "Asia", "correct": false, "selected": false},
+                {"answer": "África", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<p>¿Cómo se llama el pico más alto de América, que puedes conocer en Argentina?</p>",
+            "flashCardBack": "<h2>Aconcagua</h2>",
+            "flashCardFlipped": false,
+            "questionText": "",
+            "answers": [
+                {"answer": "Monte Pissis", "correct": false, "selected": false},
+                {"answer": "Huascarán", "correct": false, "selected": false},
+                {"answer": "Aconcagua", "correct": true, "selected": false}
+            ]
+        },
+        {
+            "flashCardFront": "<img src='assets/imgs/geografia/sahara.jpg' />",
+            "flashCardBack": "<h2>África</h2>",
+            "flashCardFlipped": false,
+            "questionText": "¿En qué continente se encuentra el desierto del Sahara?",
+            "answers": [
+                {"answer": "América", "correct": false, "selected": false},
+                {"answer": "Oceanía", "correct": false, "selected": false},
+                {"answer": "África", "correct": true, "selected": false}
+            ]
+        }
+
+    ]
+}
