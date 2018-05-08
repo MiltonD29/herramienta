@@ -12,6 +12,7 @@ import { GeografiaPage } from "../pages/geografia/geografia";
 import { HistoriaPage } from "../pages/historia/historia";
 import { MatePage } from "../pages/mate/mate";
 import { QuimicaPage } from "../pages/quimica/quimica";
+import { HeroePage } from '../pages/heroe/heroe';
 
 // components
 import { FlashCardComponent } from '../components/flash-card/flash-card';
@@ -37,7 +38,8 @@ import { DataquiProvider } from '../providers/dataqui/dataqui';
     GeografiaPage,
     HistoriaPage,
     MatePage,
-    QuimicaPage
+    QuimicaPage,
+    HeroePage
   ],
   imports: [
     BrowserModule,
@@ -53,7 +55,8 @@ import { DataquiProvider } from '../providers/dataqui/dataqui';
     GeografiaPage,
     HistoriaPage,
     MatePage,
-    QuimicaPage
+    QuimicaPage,
+    HeroePage
   ],
   providers: [
     StatusBar,

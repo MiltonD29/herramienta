@@ -1,116 +1,116 @@
 {
     "questions": [
 
-        {
-            "flashCardFront": "<p></p>",
-            "flashCardBack": "<h2></h2>",
-            "flashCardFlipped": false,
-            "questionText": "",
-            "answers": [
-                {"answer": "", "correct": true, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false}
-            ]
-        },
-        {
-            "flashCardFront": "<img src='assets/imgs/matematicas/.jpg' />",
-            "flashCardBack": "<h2></h2>",
-            "flashCardFlipped": false,
-            "questionText": "",
-            "answers": [
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": true, "selected": false}
-            ]
-        },
-        {
-            "flashCardFront": "<p></p>",
-            "flashCardBack": "<h2></h2>",
-            "flashCardFlipped": false,
-            "questionText": "",
-            "answers": [
-                {"answer": "", "correct": true, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false}
-            ]
-        },
-        {
-            "flashCardFront": "<img src='assets/imgs/matematicas/.jpg' />",
-            "flashCardBack": "<h2></h2>",
-            "flashCardFlipped": false,
-            "questionText": "",
-            "answers": [
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": true, "selected": false}
-            ]
-        },
-        {
-            "flashCardFront": "<p></p>",
-            "flashCardBack": "<h2></h2>",
-            "flashCardFlipped": false,
-            "questionText": "",
-            "answers": [
-                {"answer": "", "correct": true, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false}
-            ]
-        },
-        {
-            "flashCardFront": "<img src='assets/imgs/matematicas/.jpg' />",
-            "flashCardBack": "<h2></h2>",
-            "flashCardFlipped": false,
-            "questionText": "",
-            "answers": [
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": true, "selected": false}
-            ]
-        },
-        {
-            "flashCardFront": "<p></p>",
-            "flashCardBack": "<h2></h2>",
-            "flashCardFlipped": false,
-            "questionText": "",
-            "answers": [
-                {"answer": "", "correct": true, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false}
-            ]
-        },
-        {
-            "flashCardFront": "<img src='assets/imgs/matematicas/.jpg' />",
-            "flashCardBack": "<h2></h2>",
-            "flashCardFlipped": false,
-            "questionText": "",
-            "answers": [
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": true, "selected": false}
-            ]
-        },
-        {
-            "flashCardFront": "<p></p>",
-            "flashCardBack": "<h2></h2>",
-            "flashCardFlipped": false,
-            "questionText": "",
-            "answers": [
-                {"answer": "", "correct": true, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false}
-            ]
-        },
-        {
-            "flashCardFront": "<img src='assets/imgs/matematicas/.jpg' />",
-            "flashCardBack": "<h2></h2>",
-            "flashCardFlipped": false,
-            "questionText": "",
-            "answers": [
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": true, "selected": false}
-            ]
-        }
+      {
+          "flashCardFront": "<img src='assets/imgs/matematicas/1.jpg' />",
+          "flashCardBack": "<h2>180°</h2>",
+          "flashCardFlipped": false,
+          "questionText": "¿Cuántos grados tiene el ángulo del parte sombrado?",
+          "answers": [
+            {"answer": "360°", "correct": false, "selected": false},
+            {"answer": "90°", "correct": false, "selected": false},
+            {"answer": "180°", "correct": true, "selected": false}
+          ]
+      },
+      {
+          "flashCardFront": "<img src='assets/imgs/matematicas/2.jpg' />",
+          "flashCardBack": "<h2>Ángulo agudo</h2>",
+          "flashCardFlipped": false,
+          "questionText": "¿Qué clase de ángulo es mostrado en la diagrama?",
+          "answers": [
+            {"answer": "Ángulo recto", "correct": false, "selected": false},
+            {"answer": "Ángulo obtuso", "correct": false, "selected": false},
+            {"answer": "Ángulo agudo", "correct": true, "selected": false}
+          ]
+      },
+      {
+          "flashCardFront": "<img src='assets/imgs/matematicas/3.jpg' />",
+          "flashCardBack": "<h2>90°</h2>",
+          "flashCardFlipped": false,
+          "questionText": "¿Cuántos grados tiene este ángulo?",
+          "answers": [
+            {"answer": "270°", "correct": false, "selected": false},
+            {"answer": "85°", "correct": false, "selected": false},
+            {"answer": "90°", "correct": true, "selected": false}
+          ]
+      },
+      {
+          "flashCardFront": "<img src='assets/imgs/matematicas/4.jpg' />",
+          "flashCardBack": "<h2>135°</h2>",
+          "flashCardFlipped": false,
+          "questionText": "¿Cuántos grados tiene el ángulo x?",
+          "answers": [
+            {"answer": "45°", "correct": false, "selected": false},
+            {"answer": "125°", "correct": false, "selected": false},
+            {"answer": "135°", "correct": true, "selected": false}
+          ]
+      },
+      {
+          "flashCardFront": "<img src='assets/imgs/matematicas/5.jpg' />",
+          "flashCardBack": "<h2>80°</h2>",
+          "flashCardFlipped": false,
+          "questionText": "Los ángulos Y y X son iguales en el tamaño. ¿Cuántos grados tiene el ángulo Z?",
+          "answers": [
+            {"answer": "90°", "correct": false, "selected": false},
+            {"answer": "100°", "correct": false, "selected": false},
+            {"answer": "80°", "correct": true, "selected": false}
+          ]
+      },
+      {
+          "flashCardFront": "<img src='assets/imgs/matematicas/6.jpg' />",
+          "flashCardBack": "<h2>40°</h2>",
+          "flashCardFlipped": false,
+          "questionText": "¿Cuántos grados tiene el ángulo x?",
+          "answers": [
+            {"answer": "60°", "correct": false, "selected": false},
+            {"answer": "50°", "correct": false, "selected": false},
+            {"answer": "40°", "correct": true, "selected": false}
+          ]
+      },
+      {
+          "flashCardFront": "<img src='assets/imgs/matematicas/7.jpg' />",
+          "flashCardBack": "<h2>B y D</h2>",
+          "flashCardFlipped": false,
+          "questionText": "¿Cuáles dos de las figuras son similares?",
+          "answers": [
+            {"answer": "A y D", "correct": false, "selected": false},
+            {"answer": "B y D", "correct": false, "selected": false},
+            {"answer": "B y D", "correct": true, "selected": false}
+          ]
+      },
+      {
+          "flashCardFront": "<img src='assets/imgs/matematicas/8.jpg' />",
+          "flashCardBack": "<h2>30°</h2>",
+          "flashCardFlipped": false,
+          "questionText": "¿Cuántos grados tiene el ángulo X?",
+          "answers": [
+            {"answer": "40°", "correct": false, "selected": false},
+            {"answer": "20°", "correct": false, "selected": false},
+            {"answer": "30°", "correct": true, "selected": false}
+          ]
+      },
+      {
+          "flashCardFront": "<img src='assets/imgs/matematicas/9.jpg' />",
+          "flashCardBack": "<h2>120°</h2>",
+          "flashCardFlipped": false,
+          "questionText": "¿Cuántos grados tiene el ángulo X?",
+          "answers": [
+            {"answer": "110°", "correct": false, "selected": false},
+            {"answer": "100°", "correct": false, "selected": false},
+            {"answer": "120°", "correct": true, "selected": false}
+          ]
+      },
+      {
+          "flashCardFront": "<img src='assets/imgs/matematicas/10.jpg' />",
+          "flashCardBack": "<h2>130°</h2>",
+          "flashCardFlipped": false,
+          "questionText": " ¿Cuántos grados tiene el ángulo Y?",
+          "answers": [
+            {"answer": "120°", "correct": false, "selected": false},
+            {"answer": "50°", "correct": false, "selected": false},
+            {"answer": "130°", "correct": true, "selected": false}
+          ]
+      }
 
     ]
 }

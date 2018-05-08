@@ -44,10 +44,15 @@ export class EspanolPage {
 
   }
 
+  ngAfterViewInit(){
+    this.slides.paginationType = "progress";
+  }
+
   nextSlide(){
       this.slides.lockSwipes(false);
       this.slides.slideNext();
       this.slides.lockSwipes(true);
+
   }
 
   selectAnswer(answer, question){

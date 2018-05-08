@@ -13,14 +13,14 @@
             ]
         },
         {
-            "flashCardFront": "<img src='assets/imgs/quimica/.jpg' />",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<img src='assets/imgs/quimica/energia_cinetica.jpg' />",
+            "flashCardBack": "<h2>Energía cinética</h2>",
             "flashCardFlipped": false,
-            "questionText": "",
+            "questionText": "Se relacion con movimiento o desplazamiento de los cuerpos",
             "answers": [
-              {"answer": "", "correct": false, "selected": false},
-              {"answer": "", "correct": false, "selected": false},
-              {"answer": "", "correct": true, "selected": false}
+              {"answer": "El tiempo", "correct": false, "selected": false},
+              {"answer": "La posición", "correct": false, "selected": false},
+              {"answer": "Energía cinética", "correct": true, "selected": false}
             ]
         },
         {
@@ -35,14 +35,14 @@
             ]
         },
         {
-            "flashCardFront": "<img src='assets/imgs/quimica/.jpg' />",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<img src='assets/imgs/quimica/fusion.jpg' />",
+            "flashCardBack": "<h2>Fusión</h2>",
             "flashCardFlipped": false,
-            "questionText": "",
+            "questionText": "El cambio de sólido a líquido se llama:",
             "answers": [
-              {"answer": "", "correct": false, "selected": false},
-              {"answer": "", "correct": false, "selected": false},
-              {"answer": "", "correct": true, "selected": false}
+              {"answer": "Licuefacción", "correct": false, "selected": false},
+              {"answer": "Condensación", "correct": false, "selected": false},
+              {"answer": "Fusión", "correct": true, "selected": false}
             ]
         },
         {
@@ -57,14 +57,14 @@
             ]
         },
         {
-            "flashCardFront": "<img src='assets/imgs/quimica/.jpg' />",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<img src='assets/imgs/quimica/ebullicion.jpg' />",
+            "flashCardBack": "<h2>Físico</h2>",
             "flashCardFlipped": false,
-            "questionText": "",
+            "questionText": "La ebullición del agua es un proceso: ",
             "answers": [
-              {"answer": "", "correct": false, "selected": false},
-              {"answer": "", "correct": false, "selected": false},
-              {"answer": "", "correct": true, "selected": false}
+              {"answer": "Químico", "correct": false, "selected": false},
+              {"answer": "Ni químico ni físico", "correct": false, "selected": false},
+              {"answer": "Físico", "correct": true, "selected": false}
             ]
         },
         {
@@ -79,14 +79,14 @@
             ]
         },
         {
-            "flashCardFront": "<img src='assets/imgs/quimica/.jpg' />",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<img src='assets/imgs/quimica/rexotermica.jpg' />",
+            "flashCardBack": "<h2>Se emite calor</h2>",
             "flashCardFlipped": false,
-            "questionText": "",
+            "questionText": "En un proceso exotérmico:",
             "answers": [
-              {"answer": "", "correct": false, "selected": false},
-              {"answer": "", "correct": false, "selected": false},
-              {"answer": "", "correct": true, "selected": false}
+              {"answer": "Se emite y absorbe calor", "correct": false, "selected": false},
+              {"answer": "Se absorbe calor", "correct": false, "selected": false},
+              {"answer": "Se emite calor", "correct": true, "selected": false}
             ]
         },
         {
@@ -101,14 +101,14 @@
             ]
         },
         {
-            "flashCardFront": "<img src='assets/imgs/quimica/.jpg' />",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<img src='assets/imgs/quimica/endotermico.jpg' />",
+            "flashCardBack": "<h2>Se absorbe calor</h2>",
             "flashCardFlipped": false,
-            "questionText": "",
+            "questionText": "En un proceso endotérmico:",
             "answers": [
-              {"answer": "", "correct": false, "selected": false},
-              {"answer": "", "correct": false, "selected": false},
-              {"answer": "", "correct": true, "selected": false}
+              {"answer": "Se pierde el calor.", "correct": false, "selected": false},
+              {"answer": "Se emite calor", "correct": false, "selected": false},
+              {"answer": "Se absorbe calor", "correct": true, "selected": false}
             ]
         }
 

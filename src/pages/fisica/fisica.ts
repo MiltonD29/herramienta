@@ -42,6 +42,10 @@ export class FisicaPage {
       });
 
   }
+  
+  ngAfterViewInit(){
+    this.slides.paginationType = "progress";
+  }
 
   nextSlide(){
       this.slides.lockSwipes(false);

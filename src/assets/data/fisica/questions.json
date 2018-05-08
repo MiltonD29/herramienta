@@ -2,113 +2,113 @@
     "questions": [
 
         {
-            "flashCardFront": "<p></p>",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<p>Cambio de posición de un cuerpo con respecto a otro al  transcurrir el tiempo</p>",
+            "flashCardBack": "<h2>Movimiento</h2>",
             "flashCardFlipped": false,
             "questionText": "",
             "answers": [
-                {"answer": "", "correct": true, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false}
+                {"answer": "Desplazamiento", "correct": false, "selected": false},
+                {"answer": "Trayectoria", "correct": false, "selected": false},
+                {"answer": "Movimiento", "correct": true, "selected": false}
             ]
         },
         {
-            "flashCardFront": "<img src='assets/imgs/fisica/.jpg' />",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<img src='assets/imgs/fisica/trayectoria.jpg' />",
+            "flashCardBack": "<h2>Trayectoria</h2>",
             "flashCardFlipped": false,
-            "questionText": "",
+            "questionText": "Camino que sigue un cuerpo al moverse:",
             "answers": [
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": true, "selected": false}
+              {"answer": "Desplazamiento", "correct": false, "selected": false},
+              {"answer": "Distancia", "correct": false, "selected": false},
+              {"answer": "Trayectoria", "correct": true, "selected": false}
             ]
         },
         {
-            "flashCardFront": "<p></p>",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<p>Sustituye a todo cuerpo de cualquier forma como un punto  con masa</p>",
+            "flashCardBack": "<h2>Partícula</h2>",
             "flashCardFlipped": false,
             "questionText": "",
             "answers": [
-                {"answer": "", "correct": true, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false}
+              {"answer": "Masa", "correct": false, "selected": false},
+              {"answer": "Móvil", "correct": false, "selected": false},
+              {"answer": "Partícula", "correct": true, "selected": false}
             ]
         },
         {
-            "flashCardFront": "<img src='assets/imgs/fisica/.jpg' />",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<img src='assets/imgs/fisica/movil.jpg' />",
+            "flashCardBack": "<h2>Móvil</h2>",
             "flashCardFlipped": false,
-            "questionText": "",
+            "questionText": "Cuerpo que se mueve o susceptible de moverse:",
             "answers": [
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": true, "selected": false}
+              {"answer": "Partícula", "correct": false, "selected": false},
+              {"answer": "Masa", "correct": false, "selected": false},
+              {"answer": "Móvil", "correct": true, "selected": false}
             ]
         },
         {
-            "flashCardFront": "<p></p>",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<p>El cuadrado del tiempo que demora un planeta en completar una  vuelta es proporcional al cubo de su distancia media al Sol</p>",
+            "flashCardBack": "<h2>3era Ley de Kepler</h2>",
             "flashCardFlipped": false,
             "questionText": "",
             "answers": [
-                {"answer": "", "correct": true, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false}
+              {"answer": "2da Ley de Kepler", "correct": false, "selected": false},
+              {"answer": "1era Ley de Kepler", "correct": false, "selected": false},
+              {"answer": "3era Ley de Kepler", "correct": true, "selected": false}
             ]
         },
         {
-            "flashCardFront": "<img src='assets/imgs/fisica/.jpg' />",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<img src='assets/imgs/fisica/peso.jpg' />",
+            "flashCardBack": "<h2>Peso de un cuerpo</h2>",
             "flashCardFlipped": false,
-            "questionText": "",
+            "questionText": "Atracción gravitatoria ejercida por la Tierra",
             "answers": [
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": true, "selected": false}
+              {"answer": "Gravedad", "correct": false, "selected": false},
+              {"answer": "Masa", "correct": false, "selected": false},
+              {"answer": "Peso de un cuerpo", "correct": true, "selected": false}
             ]
         },
         {
-            "flashCardFront": "<p></p>",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<p>Las órbitas de los planetas, en su movimiento alrededor del Sol son elipses</p>",
+            "flashCardBack": "<h2>1era Ley de Kepler</h2>",
             "flashCardFlipped": false,
             "questionText": "",
             "answers": [
-                {"answer": "", "correct": true, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false}
+              {"answer": "2da Ley de Kepler", "correct": false, "selected": false},
+              {"answer": "3era Ley de Kepler", "correct": false, "selected": false},
+              {"answer": "1era Ley de Kepler", "correct": true, "selected": false}
             ]
         },
         {
-            "flashCardFront": "<img src='assets/imgs/fisica/.jpg' />",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<img src='assets/imgs/fisica/masa.jpg' />",
+            "flashCardBack": "<h2>Masa</h2>",
             "flashCardFlipped": false,
-            "questionText": "",
+            "questionText": " Magnitud que expresa la cantidad de materia de un cuerpo",
             "answers": [
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": true, "selected": false}
+              {"answer": "Kilogramos", "correct": false, "selected": false},
+              {"answer": "Peso", "correct": false, "selected": false},
+              {"answer": "Masa", "correct": true, "selected": false}
             ]
         },
         {
-            "flashCardFront": "<p></p>",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<p>Cambio de velocidad de un cuerpo en un  intervalo de tiempo</p>",
+            "flashCardBack": "<h2>Aceleración</h2>",
             "flashCardFlipped": false,
             "questionText": "",
             "answers": [
-                {"answer": "", "correct": true, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false}
+              {"answer": "Velocidad", "correct": false, "selected": false},
+              {"answer": "Fuerza", "correct": false, "selected": false},
+              {"answer": "Aceleración", "correct": true, "selected": false}
             ]
         },
         {
-            "flashCardFront": "<img src='assets/imgs/fisica/.jpg' />",
-            "flashCardBack": "<h2></h2>",
+            "flashCardFront": "<img src='assets/imgs/fisica/fuerza.jpg' />",
+            "flashCardBack": "<h2>Fuerza</h2>",
             "flashCardFlipped": false,
-            "questionText": "",
+            "questionText": "Acción que un cuerpo ejerce sobre otro",
             "answers": [
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": false, "selected": false},
-                {"answer": "", "correct": true, "selected": false}
+              {"answer": "Aceleración", "correct": false, "selected": false},
+              {"answer": "Velocidad", "correct": false, "selected": false},
+              {"answer": "Fuerza", "correct": true, "selected": false}
             ]
         }
 

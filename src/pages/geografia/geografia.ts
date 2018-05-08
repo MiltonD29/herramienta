@@ -43,6 +43,10 @@ export class GeografiaPage {
 
   }
 
+  ngAfterViewInit(){
+    this.slides.paginationType = "progress";
+  }
+
   nextSlide(){
       this.slides.lockSwipes(false);
       this.slides.slideNext();
